@@ -19,4 +19,4 @@ O projeto necessita do Xcode ou o Android Studio instalado em sua máquina.
 
 ## :calling: :tada: Prévia
 
-![]()
+<img src="https://github.com/siomar/YoutubePlayer/blob/c1415b58f3f6a14708310beb9645a230737c6647/assets/video.gif?raw=true" width="300" alt="Prévia"/>
